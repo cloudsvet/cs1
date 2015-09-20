@@ -1,0 +1,5 @@
+---
+applications:
+- name: cs1
+  instances: 1
+  mem: 64M
